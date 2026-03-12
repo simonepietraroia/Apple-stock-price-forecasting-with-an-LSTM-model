@@ -24,7 +24,7 @@ The aim of this project is to investigate whether market movement can be modelle
 
 ## Repository Structure
 
-```{r, eval=FALSE}
+```bash
 Financial-News-Sentiment-Analysis-for-Market-Impact/
 │
 ├── AAPL_raw.csv                  # Raw Apple stock dataset
@@ -40,7 +40,7 @@ Financial-News-Sentiment-Analysis-for-Market-Impact/
 ├── scaler.pkl                   # Saved scaler used for normalization
 ├── stock_lstm_model.h5          # Trained LSTM model
 └── README.Rmd                   # Project documentation
-
+```
 ---
 
 ## Dataset
