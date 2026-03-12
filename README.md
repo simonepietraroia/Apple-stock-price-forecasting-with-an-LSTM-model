@@ -1,9 +1,4 @@
----
-title: "Financial News Sentiment Analysis for Market Impact"
-output: github_document
----
-
-# Financial News Sentiment Analysis for Market Impact
+# Stock Price Forcasting With an LSTM Model
 
 ## Overview
 
